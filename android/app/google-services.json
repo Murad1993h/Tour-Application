@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "615873073222",
+    "project_id": "tour-63dc0",
+    "storage_bucket": "tour-63dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615873073222:android:595b3ae5682e4406d87a47",
+        "android_client_info": {
+          "package_name": "coamm.exple.tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615873073222-hufumu5gkdal5jj0fl09pcvamt50ar4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "coamm.exple.tour",
+            "certificate_hash": "2123ef95dde192057199c7b570c24bf58510a000"
+          }
+        },
+        {
+          "client_id": "615873073222-vphhhf0rbtog16vfc2h20rjahk7jbqvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCue5pxD5k9Q-Ds6-dHVDGO7t5MDC38GP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615873073222-vphhhf0rbtog16vfc2h20rjahk7jbqvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
